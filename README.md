@@ -18,5 +18,5 @@ This week, we'll play around some with git and GitHub. I've [added R files](http
 We'll also see if everyone can edit the [README](https://github.com/geanders/test-repo/blob/master/README.md) file in this repo to add examples of interesting data science and analysis that they've found. We'll then see if everyone can request that their changes be added to the original file.
 
 ## Other
-
+I am making changes to the Readme file
 ### Interesting examples of data science and analysis
